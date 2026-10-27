@@ -1,4 +1,4 @@
-## Hi, I am Dr Novieta H Sari | Marketing & Event Officer at DARe National Hub, Newcastle University | Climate Risk Communication & Governance | Participation, Policy Impact & Social Transformation 👋
+## Hi, I am Dr Novieta H Sari | Marketing & Event Officer at DARe National Hub, Newcastle University | Climate Risk Communication & Governance for Participation, Policy Impact & Social Transformation 👋
 
 <!--
 **novietahs-ID/novietahs-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
