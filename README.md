@@ -1,4 +1,4 @@
-## Hi, I am Dr Novieta H Sari | Marketing & Event Officer at National Hub for Decarbonised, Adaptable, Resilient Transport Infrastructures (DARe), Newcastle University
+## Hi, I am Dr Novieta H Sari | Marketing & Event Officer at DARe National Hub, Newcastle University
 
 <!--
 **novietahs-ID/novietahs-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
