@@ -14,7 +14,19 @@ Education:
 🔭 Area of interest is at the intersection of public trust, risk perception, climate risk governance, and AI-enabled communication to address emerging policy challenges, governance and societal impact.
 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset to examine how risk perception, climate change, and data can help address environmental, health, and social challenges through effective risk communication strategies and governance framework.
 🌱 I’m currently developing expertise in data analytics using Python (Pandas), SQL, Power BI, Tableau and Excel to generate evidence-based analytics and policy insights. I am interested in Projects that explore public trust, risk perception, climate risk governance, and AI-enabled communication to address emerging policy challenges, governance and societal impact.
- 
+
+### 📊 Data Analytics & Business Intelligence
+- Excel
+- Power BI
+- Tableau
+- SQL
+- Python (Pandas)
+
+### ☁️ Cloud & Emerging Technologies
+- Azure Fundamentals
+- Microsoft Copilot
+- AI-Enabled Communication
+
 Connect With Me through
 - LinkedIn: www.linkedin.com/in/novieta-h-sari-315789155
 - ORCID: 0000-0001-9295-0633
