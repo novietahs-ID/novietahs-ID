@@ -1,9 +1,9 @@
-## Hi, I am Dr Novieta H Sari | Marketing & Event Officer at DARe National Hub, Newcastle University
+## Hi, I am Dr Novieta H Sari | Social Scientist Researcher and Communications Professional in the UK, passionate about translating data into actionable data analytics insights and risk policy insights that support informed decision-making.
 
 <!--
 **novietahs-ID/novietahs-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am an interdisciplinary social scientist and communications professional with expertise in climate change, sustainability, food systems, risk communication, public engagement, and governance. My work focuses on understanding how people perceive, trust, and respond to complex societal risks and how evidence can support better policy and decision-making.
+I am an interdisciplinary social scientist and communications professional with expertise in climate change, sustainability, food systems, risk communication, public engagement, and governance. My work explores how evidence, data, and stakeholder perspectives shape response to complex societal challenge and inform policy development. I am passionate about combining research, communication and data to generate actionable analytics insights and risk policy insights.
 
 Education:
 - PhD in Social Science (Social Geography and Communication), Newcastle University, UK
@@ -13,7 +13,7 @@ Education:
 🏢 Marketing & Event at DARe National Hub for Decarbonised, Adaptable and Resilient Transport Infrastructures (DARe), Newcastle University
 🔭 Area of interest is at the intersection of public trust, risk perception, climate risk governance, and AI-enabled communication to address emerging policy challenges, governance and societal impact.
 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset to examine how risk perception, climate change, and data can help address environmental, health, and social challenges through effective risk communication strategies and governance framework.
-🌱 Learning all about  and I’m currently developing expertise in data analytics using Python SQL, Power BI, Tableau and Excel to generate evidence-based insights for policy and decision-making. I am Looking to collaborate on Open Source Projects at the intersection of public trust, risk perception, climate risk governance, and AI-enabled communication to address emerging policy challenges, governance and societal impact.
+🌱 I’m currently developing expertise in data analytics using Python (Pandas), SQL, Power BI, Tableau and Excel to generate evidence-based analytics and policy insights. I am interested in Projects that explore public trust, risk perception, climate risk governance, and AI-enabled communication to address emerging policy challenges, governance and societal impact.
  
 Connect With Me through
 - LinkedIn: www.linkedin.com/in/novieta-h-sari-315789155
