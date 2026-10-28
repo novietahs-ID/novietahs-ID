@@ -65,13 +65,4 @@ My work explores how evidence, data, and stakeholder perspectives shape response
 
 ---
 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Novieta_Sari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novieta-h-sari-315789155)
-
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9295--0633-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9295-0633)
-
-[![GitHub](https://img.shields.io/badge/GitHub-novietahs--ID-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novietahs-ID)
-
-
 📍 Newcastle upon Tyne, United Kingdom
