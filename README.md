@@ -58,6 +58,9 @@ My work explores how evidence, data, and stakeholder perspectives shape response
 49
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+employment-dashboard.png
+``
+
 README.md
 
 ## 📊 Featured Project
@@ -65,11 +68,10 @@ README.md
 
 Interactive dashboard exploring UK employment trends across industries and regions.
 
-[View Dashboard](https://public.tableau.com/app/profile/novieta.hardeani.sari/viz/DashboardEmploymentDataUK/Dashboard1)
-
-![Employment Dashboard](https://raw.githubusercontent.com/novietahs-ID/My-Tableau-Projects/main/employment-dashboard.png)
-
-``
+🔗 [View Dashboard](https://public.tableau.com/app/profile/novieta.hardeani.sari/viz/DashboardEmploymentDataUK/Dashboard1)
+<img width="940" height="687" alt="image" src="https://github.com/user-attachments/assets/7430119b-0351-4971-845e-8caa5cf18bb1" />
+<img width="940" height="661" alt="image" src="https://github.com/user-attachments/assets/5471b283-3d56-41e9-ac93-c7bd71b88555" />
+![Employment Dashboard](employment-dashboard.png)
 
 ### ☁️ Cloud & Emerging Technologies
 
