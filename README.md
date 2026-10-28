@@ -2,7 +2,7 @@
 **novietahs-ID/novietahs-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I am Dr Novieta H Sari | Social Scientist • Risk Communications • Risk Policy • Data Analytics • Emerging AI-Enabled Communication
+# Hi, I am Dr Novieta H Sari | Social Scientist | Risk Communications • Risk Policy • Data Analytics • Emerging AI-Enabled Communication
 
 ### 👋 About Me
 
@@ -71,6 +71,5 @@ My work explores how evidence, data, and stakeholder perspectives shape response
 
 [![GitHub](https://img.shields.io/badge/GitHub-novietahs--ID-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novietahs-ID)
 
- 
 
 📍 Newcastle upon Tyne, United Kingdom
