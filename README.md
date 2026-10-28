@@ -1,7 +1,7 @@
 ## Hi, I am Dr Novieta H Sari | Social Scientist Researcher and Communications Professional
 
 <!--
-**novietahs-ID/novietahs-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**novietahs-ID/novietahs-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Update profile README
 
 I am an interdisciplinary social scientist and communications professional with expertise in climate change, sustainability, food systems, risk communication, public engagement, and governance. My work explores how evidence, data, and stakeholder perspectives shape response to complex societal challenge and inform policy development. I am passionate about combining research, communication and data to generate actionable analytics insights and risk policy insights.
 
