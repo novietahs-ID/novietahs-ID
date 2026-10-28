@@ -2,7 +2,13 @@
 **novietahs-ID/novietahs-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I am Novieta H Sari | Social Scientist & Communications Professional
+# 👋 Hi, I am Dr Novieta H Sari | Social Scientist & Communications Professional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Novieta_Sari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novieta-h-sari-315789155)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9295--0633-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9295-0633)
+
+[![GitHub](https://img.shields.io/badge/GitHub-novietahs--ID-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novietahs-ID)
 
 ### 👋 About Me
 
