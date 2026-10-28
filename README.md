@@ -65,4 +65,4 @@ My work explores how evidence, data, and stakeholder perspectives shape response
 
 ---
 
-📍 Newcastle upon Tyne, United Kingdom
+📍 Newcastle Upon Tyne, United Kingdom
