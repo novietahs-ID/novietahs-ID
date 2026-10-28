@@ -26,6 +26,7 @@ My work explores how evidence, data, and stakeholder perspectives shape response
 ## 💼 Current Role
 
 🏢 Marketing & Event at DARe National Hub for Decarbonised, Adaptable and Resilient Transport Infrastructures (DARe), School of Engineering, Newcastle University
+🏢 Lecturer in Communication (Online) at Universitas Siber Asia, Jakarta, Indonesia, module leader in Risk Communication & Reputation, Strategic Communication, Qualitative Research and Digital Campaign & Publicity.
 
 ---
 
