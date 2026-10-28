@@ -71,7 +71,6 @@ Interactive dashboard exploring UK employment trends across industries and regio
 🔗 [View Dashboard](https://public.tableau.com/app/profile/novieta.hardeani.sari/viz/DashboardEmploymentDataUK/Dashboard1)
 
 <img width="940" height="687" alt="image" src="https://github.com/user-attachments/assets/7430119b-0351-4971-845e-8caa5cf18bb1" />
-<img width="940" height="661" alt="image" src="https://github.com/user-attachments/assets/5471b283-3d56-41e9-ac93-c7bd71b88555" />
 
 ### ☁️ Cloud & Emerging Technologies
 
