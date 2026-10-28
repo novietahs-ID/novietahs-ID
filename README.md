@@ -12,7 +12,7 @@ I am an interdisciplinary social scientist and communications professional with 
 
 My work explores how evidence, data, and stakeholder perspectives shape response to complex societal challenge and inform policy development. I am passionate about combining research, communication and data to generate actionable analytics insights and risk policy insights.
 
-🌱Currently developing expertise in data analytics using Python (Pandas), SQL, Power BI, Tableau and Excel, while exploring how AI-enabled communication shapes risk perception, media governance and policy responses to emerging societal challenges.
+🌱Currently developing expertise in data analytics using Python (Pandas), SQL, Power BI, Tableau and Excel, while exploring how AI-enabled communication shapes risk perception, media governance and policy responses to climated-related societal challenges.
 
 ---
 
