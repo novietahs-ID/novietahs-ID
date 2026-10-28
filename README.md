@@ -2,7 +2,7 @@
 **novietahs-ID/novietahs-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I am Dr Novieta H Sari | Social Scientist & Communications Professional
+# Hi, I am Novieta H Sari | Social Scientist & Communications Professional
 
 ### 👋 About Me
 
